@@ -1,0 +1,269 @@
+
+
+.banner1{
+      
+    background-image: url(./landscape.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 15px;
+    
+}
+
+
+.middle-box{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+ p{
+  font-family: Arial, Helvetica, sans-serif;
+     font-size: 25px;
+     color: rgb(17, 17, 17);
+     
+ }
+ h1{
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(12, 12, 12);
+}
+
+h2{
+    font-size :30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+strong{
+    color: wheat;
+    font-size:30px;
+    
+}
+
+.button{
+
+    background-color: #f44336;
+    color: white;
+    padding: 20px 36px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 10px;
+
+
+}
+
+ /* We genius 2 */
+  .banner2{
+      width: 1400px;
+      height: 530px;
+      margin: 0 auto;
+  }
+  
+.image-1banner{
+    width:700px ;
+    height: 530px ;
+    background-color: gray;
+    float: left;
+}
+ .image-1{
+
+    width: 200px;
+    height: 280px;
+    background-image: url(./obsticle\ car.jpg);
+
+    background-repeat: no-repeat;
+    /* background-size:cover; */
+  
+
+ }
+.image-2banner{
+    width:680px ;
+    height: 530px ;
+    background-color: gray;
+    float: right;
+}
+.image-2{
+    width: 680px;
+    height: 480px;
+    background-image: url(./not\ loading.jpg);
+
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* we genius3 */
+
+.banner3{
+    background-image: url("https://i.pinimg.com/originals/02/f2/64/02f2649eaa7743a8e0a117c3e0a386ee.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: auto;
+    height: auto;
+}
+
+.paragraph{
+    height: auto;
+    width: 900px;
+    margin: 0 auto;
+    background-color: white;
+
+    margin-top: 20px;
+    border-radius: 15px;
+    text-align: center;
+}     
+.video{
+    width: 420px;
+    height: 340px;
+    background-color: grey;
+    margin-top: 20px;
+    margin: 0 auto;
+    border-radius: 15px;
+}
+/* we genius3-2 */
+.column {
+    float: left;
+    width: 50%;
+    padding: 5px;
+  }
+  
+  /* Clearfix (clear floats) */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  .imagearea1{
+    width: auto;
+     height:auto;
+      
+  }
+  .button2 {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 13px;
+  }
+
+  .paragraph2{
+    height: 900px;
+    width: 900px;
+    margin: 0 auto;
+    background-color: white;
+
+    margin-top: 20px;
+    border-radius: 15px;
+    text-align: center;
+} 
+.firstbox{
+    width: 700px;
+    height: 200px;
+    text-align: center;
+    margin-bottom: 15px;
+    background-color: blanchedalmond;
+    margin: 0 auto;
+    border-radius: 20px;
+  
+
+}
+.secondbox{
+    width: 700px;
+    height: 200px;
+    text-align: center;
+    margin-bottom: 15px;
+    background-color: blanchedalmond;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+.banner3-1{
+    background-image: url("https://i.pinimg.com/originals/02/f2/64/02f2649eaa7743a8e0a117c3e0a386ee.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:auto;
+    height: 600px;
+   
+}
+.emp{
+    text-align: right;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .navbar {
+    overflow: hidden;
+    background-color: #333;
+  
+  }
+  
+  .navbar a {
+    float: left;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  .dropdown {
+    float: left;
+    overflow: hidden;
+  }
+  
+  .dropdown .dropbtn {
+    font-size: 16px;  
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+  }
+  
+  .navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: red;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+  
+  .dropdown-content a:hover {
+    background-color: #ddd;
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  .paragraph3{
+    height: auto;
+    width: auto;
+    margin: 0 auto;
+    background-color: white;
+
+    margin-top: 20px;
+    border-radius: 15px;
+    text-align: center;
+}
